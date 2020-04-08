@@ -1,7 +1,11 @@
 Rencana Belajar Saintek
 
 -Matematika
+ -Matematika Dasar Kelas 7
 -Fisika
+ -Fisika Dasar Kelas 7
 -Kimia
+ -Kimia Dasar Kelas 10
 -Biologi
+ -Biologi Dasar Kelas 7
 -Matematika IPA
